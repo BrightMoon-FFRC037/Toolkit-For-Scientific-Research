@@ -25,6 +25,6 @@ Having tried countless times with numerous methods, I find it necessary to use G
 
 * By default, **Clash** does not work for terminal(cmd and bash). 
     * Hence, we could not push or publish repository using GitBash or VSCode only.
-    * We can push or 
-* 
+    * We can push or publish branch using **GitHub Desktop** or in Browser which can work under system proxy of Clash.
+* **Git** can work locally. Therefore there is no need to open system proxy in Clash when we don't want to publish it.
 
