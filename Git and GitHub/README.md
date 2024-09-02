@@ -28,3 +28,19 @@ Having tried countless times with numerous methods, I find it necessary to use G
     * We can push or publish branch using **GitHub Desktop** or in Browser which can work under system proxy of Clash.
 * **Git** can work locally. Therefore there is no need to open system proxy in Clash when we don't want to publish it.
 
+# Set up a website by GitHub
+I followed the instuctions [here](https://pages.github.com/).
+And document can be found [here](https://docs.github.com/en/pages).
+
+1. Create a repository for the website in GitHub.
+2. Download [Ruby](https://rubyinstaller.org/downloads/) for windows.
+
+In addition, thses YouTube tutorials have helped me a lot:
+1. [Choosing a suitable theme](https://www.youtube.com/watch?v=8lJhXJCUYCc).
+
+
+
+
+
+
+
