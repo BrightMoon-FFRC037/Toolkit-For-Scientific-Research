@@ -38,6 +38,12 @@ And document can be found [here](https://docs.github.com/en/pages).
 In addition, thses YouTube tutorials have helped me a lot:
 1. [Choosing a suitable theme](https://www.youtube.com/watch?v=8lJhXJCUYCc).
 
+## Maintenance of the Website
+### Add a colomn
+There are several parts to be modified:
+1. _data/navigation.yml
+2. _config.yml
+3. add HTML files to the folder named _pages
 
 
 
