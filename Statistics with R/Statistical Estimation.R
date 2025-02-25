@@ -2,7 +2,7 @@ setwd("E:/Set Sail For Scientific Research/Academic World/My Projects/Toolkit Fo
 
 
 # Point Estimation of an Expectation
-data <- c(2781,2836,2807,2763,2858)
+data <- c(1.9,0.8,1.1,0.1,-0.1,4.4,5.5,1.6,4.6,3.4)
 expected_value <- mean(data)
 expected_value
 
@@ -54,6 +54,8 @@ ggplot(data_chi, aes(x, Density, color = as.factor(df))) +
        x = "Chi-Square", y = "Density", color = "Degrees of Freedom") +
   theme_minimal()
 
+T = (expected_value-112.6)/sqrt(sample_variance/7)
+8*(7/5)^2
 
 
 
